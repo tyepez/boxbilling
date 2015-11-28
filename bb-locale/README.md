@@ -1,3 +1,3 @@
 # BoxBilling
-Traducciones de BoxBilling
-* Español
+Paquetes de Idiomas de BoxBilling
+* Español (es_ES)
